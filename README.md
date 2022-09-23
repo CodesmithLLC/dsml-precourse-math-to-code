@@ -8,7 +8,7 @@ To work with ML on a regular basis you need to be fluent in various mathematical
 
 So to fast-forward our mathematical savviness we're going to try and code different mathematical ideas from scratch with bare python to check that we understand what different symbols refer to.  
 
-To complete this portion, please open up the accompanying IPython notebook that will display different mathematical operators, and you'll have the chance to implement them in code with the data provided.  
+To complete this portion, please open up the accompanying IPython notebook in the `src` that will display different mathematical operators, and you'll have the chance to implement them in code with the data provided.  
 
 There will be cells that follow that you can run to test your implementations.  
 
