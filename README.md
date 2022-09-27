@@ -39,3 +39,10 @@ There will be cells that follow that you can run to test your implementations.
 Check out the [GitHub Documentation](https://help.github.com/articles/fork-a-repo/) for a more in-depth explanation of forking and cloning.
 
 If working remotely, you'll want to make sure you have the VS Code extension [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) installed. When working with your partner, one of you will need to share your copy of the unit via Live Share - this will allow you to both work together in the same VS Code editor. Note that when using Live Share, it will still be important for *both* partners to fork the challenge, and whoever is sharing should still regularly push changes to their repo. This will ensure that both of you consistently have access to the most recent version of your work.
+
+# Additional Resources
+
+- [iPython / Jupyer Notebook](https://www.youtube.com/watch?v=eJDxcR1V7Qg)
+- [LaTeX](https://www.youtube.com/watch?v=MuK_z57j5JY) 
+
+
